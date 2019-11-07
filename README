@@ -1,0 +1,3 @@
+A project to become familiar with kafka producers, consumers and streams.
+Also using this project to learn how to use jdbc with the open source MariaDB.
+Code is written in java.  Messages handled using kafka.  Data persisted in MariaDB
